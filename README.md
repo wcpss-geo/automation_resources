@@ -61,7 +61,9 @@ chmod +x script.sh
 chmod +x script.php
 ```
 
+#### Additional Crontab resources
 
+- [crontab guru](https://crontab.guru/): A simple web-based editor to help you write cron schedule expressions
 
 ### Windows Task Scheduler
 
